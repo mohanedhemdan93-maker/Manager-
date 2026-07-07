@@ -1,0 +1,29 @@
+{
+  "name": "تقويم قطاع الصيدليات - آل عبد اللطيف الطرشوبي",
+  "short_name": "تقويم الصيدليات",
+  "description": "تقويم إداري لقطاع الصيدليات - آل عبد اللطيف الطرشوبي",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "scope": ".",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "prefer_related_applications": false
+}
